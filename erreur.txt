@@ -1,0 +1,2 @@
+ceci est un fichier erreur que ja vais faire un git checkout --
+
