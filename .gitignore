@@ -3,8 +3,10 @@
 mdp.txt
 
 #igore aussi le fichier gitignore.txt
-.gitignore
+#.gitignore
 
 #ajout de fichier afin que ce git ignore soit ignoré 
-git config --global core.excludesfile ~/.gitignore
+#git config --global core.excludesfile ~/.gitignore
+
+mdp2.md
 
