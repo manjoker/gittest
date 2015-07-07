@@ -1,0 +1,10 @@
+
+#ceci est un commentaire et je veux que tu ignores les fichiers suivantes:
+mdp.txt
+
+#igore aussi le fichier gitignore.txt
+.gitignore
+
+#ajout de fichier afin que ce git ignore soit ignoré 
+git config --global core.excludesfile ~/.gitignore
+
